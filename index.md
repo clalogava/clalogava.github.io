@@ -11,7 +11,7 @@ linkedin_url: https://www.linkedin.com/in/claudiagarcia-profile/
 twitter_url: https://twitter.com/claudiagarcia
 email: contacto.claudiagarcia@gmail.com
 about_me:
-    subtitle: My name is Claudia Garcia and I help organisations grow.
-    text: I am a Customer Success Manager with a background in CRM and Business Development. I have worked in the tech industry for over 5 years, helping companies grow and scale their business. I am passionate about helping people and organisations achieve their goals. I am a strong believer in the power of community and collaboration. I am also a certified facilitator and I love to help teams work better together.
+    subtitle: My name is Claudia Garcia and I help brands build customer-centruc interactions
+    text: I am a Customer Success Manager with experience in diverse industries, I specilise in fostering strong client relationships, driving feature adoption, and accelerating growth.
 image: /claudia.jpeg
 ---
