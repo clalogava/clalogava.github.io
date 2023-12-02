@@ -6,7 +6,7 @@ skills: [CRM, Customer Success, Facilitation]
 tagline: 
     headline: I can help your business to
     text: Bring success to your clients
-blog_url: https://claudiagarcia.substack.com
+blog_url: https://clalogava.substack.com/
 linkedin_url: https://www.linkedin.com/in/claudiagarcia-profile/
 twitter_url: https://twitter.com/claudiagarcia
 email: contacto.claudiagarcia@gmail.com
